@@ -32,6 +32,8 @@ Files of heart valve leaflets
 ## 2D Curved elastic leaflets. Curved rigid walls. (Numerical)
 [2017 - Assessment of calcified aortic valve leaflet deformations and blood flow dynamics using fluid-structure interaction modeling](https://doi.org/10.1016/j.imu.2017.09.001)
 
+[2020 - Fluid structure interaction modelling of aortic valve stenosis: Effects of valve calcification on coronary artery flow and aortic root hemodynamics](https://doi.org/10.1016/j.cmpb.2020.105647)
+
 ## 2D Vertical and curved elastic leaflets in contact. Rectangular rigid and elastic walls. (Numerical example used in 2016)
 [2014 - Flapping and contact FSI computations with the fluid–solid interface-tracking/interface-capturing technique and mesh adaptivity](https://doi.org/10.1007/s00466-013-0890-3)
 
