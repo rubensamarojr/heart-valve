@@ -44,3 +44,10 @@ Files of heart valve leaflets
 
 ## 2D Inclined elastic leaflets in contact. Rectangular rigid walls. (Numerical SPH)
 [2019 - Flexible slender body fluid interaction: Vector-based discrete element method with Eulerian smoothed particle hydrodynamics](https://doi.org/10.1016/j.compfluid.2018.11.024)
+
+## SPH applied to heart valves
+[2016 - Fluid–Structure Interaction Study of Transcatheter Aortic Valve Dynamics Using Smoothed Particle Hydrodynamics](https://doi.org/10.1007/s13239-016-0285-7)
+
+[2017 - Fully-coupled fluid-structure interaction simulation of the aortic and mitral valves in a realistic 3D left ventricle model](https://doi.org/10.1371/journal.pone.0184729)
+
+[2019 - Development of a Computational Method for Simulating Tricuspid Valve Dynamics](https://doi.org/10.1007/s10439-019-02243-y)
