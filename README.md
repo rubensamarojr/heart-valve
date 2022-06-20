@@ -51,3 +51,11 @@ Files of heart valve leaflets
 [2017 - Fully-coupled fluid-structure interaction simulation of the aortic and mitral valves in a realistic 3D left ventricle model](https://doi.org/10.1371/journal.pone.0184729)
 
 [2019 - Development of a Computational Method for Simulating Tricuspid Valve Dynamics](https://doi.org/10.1007/s10439-019-02243-y)
+
+## 3D Experimental x Numerical
+[2017 - Fluid-structure interaction of a pulsatile flow with an aortic valve model: A combined experimental and numerical study](https://doi.org/10.1002/cnm.2945)
+
+[2017 - Evaluation of an aortic valve prosthesis: Fluid-structure interaction or structural simulation?](https://doi.org/10.1016/j.jbiomech.2017.04.004)
+
+[2018 - Validation and Extension of a Fluid–Structure Interaction Model of the Healthy Aortic Valve](https://doi.org/10.1007/s13239-018-00391-1)
+
