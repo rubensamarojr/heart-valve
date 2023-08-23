@@ -43,9 +43,9 @@ plt.rc('legend', fontsize=SMALL_SIZE)    # legend fontsize
 plt.rc('figure', titlesize=BIGGER_SIZE)  # fontsize of the figure title
 
 # Read file data
-data0 = np.genfromtxt("TopLeafletObserver_Position_0000000000.dat")
-data1x = np.genfromtxt("output_2_flaps_2mm_1_2010_x.tsv")
-data1y = np.genfromtxt("output_2_flaps_2mm_1_2010_y.tsv")
+data0  = np.genfromtxt("../reference_data/horizontal_flaps/TopLeafletObserver_Position_0000000000.dat")
+data1x = np.genfromtxt("../reference_data/horizontal_flaps/output_2_flaps_2mm_1_2010_x.tsv")
+data1y = np.genfromtxt("../reference_data/horizontal_flaps/output_2_flaps_2mm_1_2010_y.tsv")
 # Time
 t0 = data0[:,0]
 t1x = data1x[:,0]

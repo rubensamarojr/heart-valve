@@ -45,7 +45,7 @@ plt.rc('legend', fontsize=SMALL_SIZE)    # legend fontsize
 plt.rc('figure', titlesize=BIGGER_SIZE)  # fontsize of the figure title
 
 # Read file data
-data = np.genfromtxt("BottomLeafletObserver_Position_0000000000.dat")
+data = np.genfromtxt("../reference_data/horizontal_flaps/BottomLeafletObserver_Position_0000000000.dat")
 # Time
 t = data[:,0]
 # Displacements
